@@ -10,9 +10,9 @@ It calculates averages, highest/lowest scores, and displays a detailed summary r
 
 Task-1-StudentGradeTracker/
 ├── src/
-│ ├── Student.java → Data model (student name & grades)
-│ ├── GradeTrackerService.java → Business logic (add, average, stats)
-│ └── Main.java → Console user interface
+│ ├── Student.java → Data model 
+│ ├── GradeTrackerService.java 
+│ └── Main.java 
 └── README.md
 
 
@@ -20,7 +20,7 @@ Task-1-StudentGradeTracker/
 
 ## ✨ Features
 
-- Add new students (duplicate names prevented)
+- Add new students
 
 - Record multiple grades per student (0‑100)
 
@@ -30,7 +30,7 @@ Task-1-StudentGradeTracker/
   - Each student’s grades, average, highest, lowest
   - Class overall statistics (average, highest  lowest, total grades)
   
-- Input validation and user‑friendly error messages
+
 
 ---
 
@@ -44,4 +44,5 @@ Task-1-StudentGradeTracker/
    javac src/*.java
 
 3. Run the Application
+4. ```bash
     java -cp src Main
