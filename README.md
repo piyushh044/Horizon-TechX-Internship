@@ -40,9 +40,7 @@ Features:
 
 * Java
 * OOP
-* Collections Framework
-* IntelliJ IDEA
-* Git
+* VS code
 * GitHub
 
 ## Author
